@@ -1,5 +1,5 @@
 # SHA_256_GENERATOR
-This code helps generate sha_256 hash for each line in a csv file and append it as a column in the csv
+This code helps generate generate a CHIP-0007 compatible json, calculate the sha256 of the json file and append it to each line in the csv of the hng internship nft properties csv file
 # Steps
 1. Clone the repository to your computer
 2. Install python and the requirements in the requirements.txt file
